@@ -1,0 +1,11 @@
+ipython
+numpy
+scipy
+matplotlib
+argparse
+pyshp
+pyaml
+ansicolors
+pyshp>=2.0.1
+sphinx_jekyll_builder
+sphinx_rtd_theme
